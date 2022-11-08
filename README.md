@@ -1,4 +1,4 @@
-- 👋 oi eu @ souanab155
+- 👋 oi eu sou @anab155
 - 👀 eu estou interessada em aprender a linguagem github
 - 🌱 no momento estou aorendendo html
 - 💞️ eu estou pronta para aprender pelo github
