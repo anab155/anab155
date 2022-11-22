@@ -2,7 +2,7 @@
 - 👀 eu estou interessada em aprender a linguagem github
 - 🌱 no momento estou aprendendo html
 - 💞️ eu estou pronta para aprender pelo github
-- 📫 voce pode entrar em contato comigo via email [email](ana.santos.moraes@ecola.pr.gov.br)
+- 📫 voce pode entrar em contato comigo via email [email](ana.santos.moraes@ecola.pr.gov.br
 
 <!---
 anab155/anab155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
